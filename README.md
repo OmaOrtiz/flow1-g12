@@ -52,7 +52,7 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![]
+![](https://github.com/OmaOrtiz/flow1-g12/blob/main/imagenes/Capturadesde2023-05-2800-16-42.png?raw=true)
 
 ## Evidencias
 
